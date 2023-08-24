@@ -1,0 +1,188 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.products{
+  display:flex;
+}
+
+body{
+  background-color:aquamarine;
+}
+
+p{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+  font-size: 35px;
+  color:brown;
+  max-width:30mm;
+}
+
+#iph:after
+{
+    content:'An apple mobile which is nothing like apple';
+    display:block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 27px;
+    font-weight: lighter;
+    color: black;
+    max-width: fit-content;
+}
+
+img{
+  max-width:10%;
+}
+
+#iph{
+  color:darkmagenta;
+  max-width: fit-content;
+}
+
+
+.btn{
+  background-color:#646cffaa;
+  max-width:30mm;
+}
+
+.btn1{
+  background-color:#888;
+  max-width:30mm;
+}
+
+#sam{
+  font-size: 45px ;
+  color:darkmagenta;
+}
+
+#ip{
+  color: darkmagenta;
+}
+
+#oppo{
+  color: darkmagenta;
+}
+
+#hua{
+  color: darkmagenta;
+}
+
+
+#ip:after
+{
+    content:'SIM-Free, Model A19211 6.5-inch Super Retina HD display';
+    display:block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19.8px;
+    font-weight: lighter;
+    color: black;
+    max-width: fit-content;
+}
+
+
+#sam:after
+{
+    content:"Samsung's new variant which goes beyond Galaxy to the Universe";
+    display:block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: lighter;
+    color: black;
+    max-width: fit-content;
+}
+
+
+#oppo:after
+{
+    content:"OPPO F19 is officially announced on April 2021";
+    display:block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24.5px;
+    font-weight: lighter;
+    color: black;
+    max-width: fit-content;
+}
+
+
+#hua:after
+{
+    content:"Huawei’s re-badged P30 Pro New Edition";
+    display:block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28.7px;
+    font-weight: lighter;
+    color: black;
+    max-width: fit-content;
+}
+
+#head{
+  text-align: center;
+  color: blue;
+  text-shadow: 2px 2px #ff0000;
+}
+
+h2{
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bolder;
+  color:crimson;
+  text-shadow: none;
+  text-align: center;
+}
+
+#cat{
+  color: black;
+}
+
+#more{
+  font-size:18px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight:bolder;
+  color:dimgray;
+  border: peru dotted 10px;
+}
+
+#amt{
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bolder ;
+  color:#ff0000;
+}

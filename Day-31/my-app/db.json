@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "bookName": "A Fine Balance",
+      "isbn": 679446087,
+      "publication": 1995,
+      "authName": "Rohinton Mistry",
+      "dob": 1952,
+      "bio": "Rohinton Mistry CM is an Indian-born Canadian writer. He has been the recipient of many awards including the Neustadt International Prize for Literature in 2012. Each of his first three novels were shortlisted for the Booker Prize. His novels to date have been set in India, told from the perspective of Parsis, and explore themes of family life, poverty, discrimination, and the corrupting influence of society."
+    },
+    {
+      "id": 2,
+      "bookName": "Midnight's Children",
+      "isbn": 	22401823,
+      "publication": 1981,
+      "authName": "Salman Rushdie",
+      "dob": 1947,
+      "bio": "Sir Salman Rushdie, (born June 19, 1947, Bombay, India), Indian-born novelist. Educated at the University of Cambridge, he worked as an advertising copywriter in London in the 1970s before winning unexpected success with Midnight's Children (1981, Booker Prize), an allegorical novel about modern India."
+    },
+        {
+      "id": 3,
+      "bookName": "A Suitable Boy",
+      "isbn": 		60170123,
+      "publication": 1993,
+      "authName": "Vikram Seth",
+      "dob": 1952,
+      "bio": "Vikram Seth CBE, FRSL (born 20 June 1952) is an Indian novelist and poet. He has written several novels and poetry books. He has won several awards such as Padma Shri, Sahitya Academy Award, Pravasi Bharatiya Samman, WH Smith Literary Award and Crossword Book Award. Seth's collections of poetry such as Mappings and Beastly Tales are notable contributions to the Indian English language poetry canon"
+    },
+    {
+      "id": 4,
+      "bookName": "God of Small Things",
+      "isbn": 60977493,
+      "publication": 1997,
+      "authName": "Arundhati Roy",
+      "dob": 1961,
+      "bio": "Suzanna Arundhati Roy (born 24 November 1961) is an Indian author best known for her novel The God of Small Things (1997), which won the Booker Prize for Fiction in 1997 and became the best-selling book by a non-expatriate Indian author. She is also a political activist involved in human rights and environmental causes."
+    },
+    {
+      "id": 5,
+      "bookName": "The Inheritance of Loss",
+      "isbn": 241143489 ,
+      "publication": 2006,
+      "authName": "Kiran Desai",
+      "dob": 1971,
+      "bio": "Kiran Desai (born 3 September 1971) is an Indian author. Her novel The Inheritance of Loss won the 2006 Man Booker Prize and the National Book Critics Circle Fiction Award. In January 2015, The Economic Times listed her as one of 20 'most influential' global Indian women."
+    }
+  ]
+}

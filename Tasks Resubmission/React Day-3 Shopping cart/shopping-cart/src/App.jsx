@@ -3,26 +3,26 @@ import React, { useState } from 'react';
 import './App.css';
 import ShowCourseComponent from './Show';
 import UserCartComponent from './User';
+import img1 from './assets/tshirt.png';
+import img2 from './assets/bag.jpg';
+import img3 from './assets/hoodie.jpg';
  
 function App() {
     const [courses, setCourses] = useState([
         { id: 1, 
           name: 'T-shirt', 
           price: 499, 
-          image: 
-'https://media.geeksforgeeks.org/wp-content/uploads/20230823165506/gfg1.png'
+          image: img1
         },
         { id: 2, 
           name: 'Bag', 
           price: 699, 
-          image: 
-          'https://media.geeksforgeeks.org/wp-content/uploads/20230823165553/gfg2.jpg'
+          image: img2
         },
         { id: 3, 
           name: 'Hoodie', 
           price: 799, 
-          image: 
-'https://media.geeksforgeeks.org/wp-content/uploads/20230823165623/gfg3.jpg'
+          image: img3
         }
     ]);
  
